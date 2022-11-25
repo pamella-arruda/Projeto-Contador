@@ -18,20 +18,20 @@ button:hover{
 body{
     font-size: 150%;
     text-align: center;
-    background-color: rgb(122, 144, 240);
+    background-color: rgb(96, 97, 97);
     margin: 30px;
 }
 
 h1{
     font-family: Helvetica;
-    color: #fd216b;
+    color: black;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: #000
 }
 
 
 .container{
-    background-color: white;
+    background-color: rgb(190, 178, 178);
     padding: 20px;
     border-radius: 10px;
 }
